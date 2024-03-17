@@ -1,0 +1,13 @@
+Feature Type,Independent Variable,Number of Categories,Description
+Vehicle,number_of_vehicles,-,The number of vehicles involved in accidents
+Person,number_of_casualties,-,The number of casualties in the accident
+Road,road_type,6,Different numbers represent different types of roads
+Road,speed_limit,-,The speed limit of the road that the traffic accidents occurred.
+Road,road_surface_conditions,7,The road surface conditions when the accidents happened
+Road,special_conditions_at_site,8,There were special circumstances on the road during the accident
+Road,urban_or_rural_area,3,The road at the time of the accident was located in the city or rural area.
+Road,trunk_road_flag,2,Indicates whether the accident occurred on the main road
+Environment,light_conditions,5,Light conditions at the time of the accident
+Environment,weather_conditions,8,Weather conditions at the time of the accident
+Environment,hour,24,Time of accident occurrence (hours)
+Environment,month,12,The month in which the accident occurred
